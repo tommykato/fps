@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b44ff591205e56449b160bc975fd07a3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nisiko: {fileID: 100002, guid: 502f397bde12655448ff152eac00cdc7, type: 2}
+  - nishiko: {fileID: 400000, guid: a626d27953d5e2149a24d3c4f373346c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
